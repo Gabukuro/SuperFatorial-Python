@@ -5,8 +5,8 @@ O super fatorial de um número N é definida pelo produto dos N primeiros fatori
 | Abordagem | Fatorial | Tempo de execução |
 |-----------|----------|-------------------|
 |Normal     | 4        | 0.033 |
-|^^         | 10       | 0.490 |
-|^^         | 20       | 0.100 |
+|Normal     | 10       | 0.049 |
+|Normal     | 20       | 0.100 |
 |Dinâmica   | 4        | 0.016 |
-|^^         | 10       | 0.074 |
-|^^         | 20       | 0.237 |
+|Dinâmica   | 10       | 0.074 |
+|Dinâmica   | 20       | 0.237 |
